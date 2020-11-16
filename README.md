@@ -1,1 +1,1 @@
-# git-studyGit操作很难，练习也不会
+# github Git操作还是有点难的，多练习应该会好一点
